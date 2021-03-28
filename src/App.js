@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Claudia Coin will be implemented here
         </a>
       </header>
     </div>
